@@ -3,6 +3,7 @@
 ![IMG_2474](https://github.com/user-attachments/assets/ac07bab3-7797-4cfa-93bf-b7ccd9c35f40)
 [구현 홈페이지](https://6-photo-2-fe.vercel.app/)
 [팀 노션 페이지](https://www.notion.so/danikim8/2-1ed826aac9d5803c9475ef1eac9835ab)
+### Back-end 깃허브 [Back-end](https://github.com/YSJ0228/Photo_be)
 
 ## **팀원 구성**
 
